@@ -1,0 +1,22 @@
+{
+    "/salas/list": "/salas/",
+    "/salas/create": "/salas/",
+    "/salas/update/:id": "/salas/:id",
+    "/salas/delete/:id": "/salas/:id",
+    
+    "/filmes/list": "/filmes/",
+    "/filmes/create": "/filmes/",
+    "/filmes/update/:id": "/filmes/:id",
+    "/filmes/delete/:id": "/filmes/:id",
+
+    "/combos/list": "/combos/",
+    "/combos/create": "/combos/",
+    "/combos/update/:id": "/combos/:id",
+    "/combos/delete/:id": "/combos/:id",
+
+    "/funcionarios/list": "/funcionarios/",
+    "/funcionarios/create": "/funcionarios/",
+    "/funcionarios/update/:id": "/funcionarios/:id",
+    "/funcionarios/delete/:id": "/funcionarios/:id"
+
+}

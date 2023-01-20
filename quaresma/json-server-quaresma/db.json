@@ -1,0 +1,96 @@
+{
+    "salas": [ 
+        {
+            "numero": 1,
+            "tipo": "max",
+            "capacidade": 200,
+            "id": 0  
+        },{
+            "numero": 2,
+            "tipo": "premium",
+            "capacidade": 180,
+            "id": 1
+        },{
+            "numero": 3,
+            "tipo": "platinum",
+            "capacidade": 200,
+            "id": 2
+        },{
+            "numero": 4,
+            "tipo": "platinum-max",
+            "capacidade": 250,
+            "id": 3
+        }
+    ],
+
+    "filmes": [ 
+        {
+            "titulo": "Avatar 2",
+            "duracao": "3h15min",
+            "poster": "https://img.elo7.com.br/product/original/46B928F/big-poster-filme-avatar-o-caminho-da-agua-90x60-cm-lo002-presente-geek.jpg",
+            "id": 0  
+        },{
+            "titulo": "Babilônia",
+            "duracao": "3h9min",
+            "poster": "https://universoreverso.com.br/wp-content/uploads/2023/01/babilonia-poster.jpg",
+            "id": 1
+        },{
+            "titulo": "ForrestGump",
+            "duracao": "2h22min",
+            "poster": "https://http2.mlstatic.com/D_NQ_NP_658363-MLB51699917680_092022-O.jpg",
+            "id": 2
+        }, {
+            "titulo": "Sorria",
+            "duracao": "1h55min",
+            "poster": "https://www.atoupeira.com.br/wp-content/uploads/2022/08/sorria-poster-nacional.jpg",
+            "id": 3
+        }
+    ],
+
+    "combos": [ 
+        {
+            "nome": "ComboKids",
+            "pipoca": "pequena",
+            "refrigerante": "pequeno",
+            "preco": "R$10,00",
+            "id": 0  
+        },{
+            "nome": "ComboMax",
+            "pipoca": "média",
+            "refrigerante": "médio",
+            "preco": "R$20,00",
+            "id": 1
+        },{
+            "nome": "ComboPlatinum",
+            "pipoca": "grande",
+            "refrigerante": "grande",
+            "preco": "R$40,00",
+            "id": 2
+        }, {
+            "nome": "ComboPlatinumDuplo",
+            "pipoca": "02 pipocas grande",
+            "refrigerante": "02 refrigerantes grande",
+            "preco": "R$70,00",
+            "id": 3
+        }
+    ],
+
+    "funcionarios": [ 
+        {
+            "nome": "João",
+            "cpf": "120.321.551-74",
+            "funcao": "Atendente",
+            "id": 0  
+        },{
+            "nome": "Agata",
+            "cpf": "822.332.091-23",
+            "funcao": "Gerente",
+            "id": 1
+        },{
+            "nome": "Juarez",
+            "cpf": "077.212.900-32",
+            "funcao": "Auxiliar de Serviços Gerais",
+            "id": 2
+        }
+    ]
+}

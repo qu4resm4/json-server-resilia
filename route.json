@@ -1,22 +1,22 @@
 {
-     "/salas/list": "/salas/",
-    "/salas/create": "/salas/",
-    "/salas/update/:id": "/salas/:id",
-    "/salas/delete/:id": "/salas/:id",
+    "GET/salas/list": "/salas/",
+    "POST/salas/create": "/salas/",
+    "PUT/salas/update/:id": "/salas/:id",
+    "DELETE/salas/delete/:id": "/salas/:id",
     
-    "/filmes/list": "/filmes/",
-    "/filmes/create": "/filmes/",
-    "/filmes/update/:id": "/filmes/:id",
-    "/filmes/delete/:id": "/filmes/:id",
+    "GET/filmes/list": "/filmes/",
+    "POST/filmes/create": "/filmes/",
+    "PUT/filmes/update/:id": "/filmes/:id",
+    "DELETE/filmes/delete/:id": "/filmes/:id",
 
-    "/combos/list": "/combos/",
-    "/combos/create": "/combos/",
-    "/combos/update/:id": "/combos/:id",
-    "/combos/delete/:id": "/combos/:id",
+    "GET/combos/list": "/combos/",
+    "POST/combos/create": "/combos/",
+    "PUT/combos/update/:id": "/combos/:id",
+    "DELETE/combos/delete/:id": "/combos/:id",
 
-    "/funcionarios/list": "/funcionarios/",
-    "/funcionarios/create": "/funcionarios/",
-    "/funcionarios/update/:id": "/funcionarios/:id",
-    "/funcionarios/delete/:id": "/funcionarios/:id"
+    "GET/funcionarios/list": "/funcionarios/",
+    "POST/funcionarios/create": "/funcionarios/",
+    "PUT/funcionarios/update/:id": "/funcionarios/:id",
+    "DELETE/funcionarios/delete/:id": "/funcionarios/:id"
 
 }

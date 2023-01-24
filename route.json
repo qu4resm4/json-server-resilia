@@ -1,5 +1,5 @@
 {
-    "/salas/list": "/salas/",
+     "/salas/list": "/salas/",
     "/salas/create": "/salas/",
     "/salas/update/:id": "/salas/:id",
     "/salas/delete/:id": "/salas/:id",

@@ -10,7 +10,6 @@ server.listen(3000, () => {
 })*/
 
 const http = require('http');
-const { hostname } = require('os');
 const app = require('./app');
 
 const port = process.env.PORT || 5000;
